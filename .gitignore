@@ -1,0 +1,12 @@
+# Compiled output
+bin/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Runtime data files
+*.dat
+*.txt
